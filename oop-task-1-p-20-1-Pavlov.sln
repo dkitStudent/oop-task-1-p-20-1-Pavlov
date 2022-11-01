@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-task-1-console-p-20-1-Pavlov", "oop-task-1-console-p-20-1-Pavlov\oop-task-1-console-p-20-1-Pavlov.csproj", "{837859BB-EF81-4204-AF54-D85A5CC7C341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-task-1-wpf-p-20-1-Pavlov", "oop-task-1-wpf-p-20-1-Pavlov\oop-task-1-wpf-p-20-1-Pavlov.csproj", "{5C7EB061-8A0C-4008-AEA4-3FF4F2C3A126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{837859BB-EF81-4204-AF54-D85A5CC7C341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837859BB-EF81-4204-AF54-D85A5CC7C341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837859BB-EF81-4204-AF54-D85A5CC7C341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837859BB-EF81-4204-AF54-D85A5CC7C341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7EB061-8A0C-4008-AEA4-3FF4F2C3A126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7EB061-8A0C-4008-AEA4-3FF4F2C3A126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7EB061-8A0C-4008-AEA4-3FF4F2C3A126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7EB061-8A0C-4008-AEA4-3FF4F2C3A126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F686A21-19E4-4AA6-A7B5-9D7D104C0CC4}
+	EndGlobalSection
+EndGlobal
